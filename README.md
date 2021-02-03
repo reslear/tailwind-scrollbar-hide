@@ -1,4 +1,7 @@
-# tailwind-scrollbar-hide
+# tailwind-scrollbar-hidehttps://github.com/reslear/tailwind-scrollbar-hide/blob/main/README.md
+
+![npm](https://img.shields.io/npm/v/tailwind-scrollbar-hide)
+![npm](https://img.shields.io/npm/dt/tailwind-scrollbar-hide)
 
 tailwindcss plugin hide scrollbar
 
