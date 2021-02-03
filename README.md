@@ -1,4 +1,4 @@
-# tailwind-scrollbar-hidehttps://github.com/reslear/tailwind-scrollbar-hide/blob/main/README.md
+# tailwind-scrollbar-hide
 
 ![npm](https://img.shields.io/npm/v/tailwind-scrollbar-hide)
 ![npm](https://img.shields.io/npm/dt/tailwind-scrollbar-hide)
