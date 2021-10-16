@@ -17,6 +17,9 @@ npm install tailwind-scrollbar-hide
 
 # Using Yarn
 yarn add tailwind-scrollbar-hide
+
+# Using pnpm
+pnpm add tailwind-scrollbar-hide
 ```
 
 Then add the plugin to your `tailwind.config.js` file:
