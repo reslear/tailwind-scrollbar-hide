@@ -2,8 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/tailwind-scrollbar-hide)](https://www.npmjs.com/package/tailwind-scrollbar-hide)
 ![npm](https://img.shields.io/npm/dt/tailwind-scrollbar-hide)
-
-tailwindcss plugin hide scrollbar
+![Dependents (via libraries.io)](https://img.shields.io/librariesio/dependents/npm/tailwind-scrollbar-hide)
 
 [Demo](https://reslear.github.io/packages/tailwind-scroll-hide/index.html)
 
