@@ -41,3 +41,9 @@ Use in you template `scrollbar-hide` for visual hiding scrollbar
 ```html
 <div class="w-4 scrollbar-hide">...</div>
 ```
+
+or restore default value use `scrollbar-default`
+
+```html
+<div class="w-4 scrollbar-hide md:scrollbar-default">...</div>
+```
