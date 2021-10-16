@@ -10,6 +10,15 @@ const scrollbarHide = plugin(function ({ addUtilities }) {
       '&::-webkit-scrollbar': {
         display: 'none'
       }
+    },
+    'scrollbar-default': {
+      /* Firefox */
+      'scrollbar-width': 'auto',
+
+      /* Safari and Chrome */
+      '&::-webkit-scrollbar': {
+        display: 'block'
+      }
     }
   })
 })
