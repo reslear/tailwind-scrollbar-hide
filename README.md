@@ -2,8 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/tailwind-scrollbar-hide)](https://www.npmjs.com/package/tailwind-scrollbar-hide)
 ![npm](https://img.shields.io/npm/dt/tailwind-scrollbar-hide)
-
-tailwindcss plugin hide scrollbar
+![Dependents (via libraries.io)](https://img.shields.io/librariesio/dependents/npm/tailwind-scrollbar-hide)
 
 [Demo](https://reslear.github.io/packages/tailwind-scroll-hide/index.html)
 
@@ -17,6 +16,9 @@ npm install tailwind-scrollbar-hide
 
 # Using Yarn
 yarn add tailwind-scrollbar-hide
+
+# Using pnpm
+pnpm add tailwind-scrollbar-hide
 ```
 
 Then add the plugin to your `tailwind.config.js` file:
@@ -40,4 +42,10 @@ Use in you template `scrollbar-hide` for visual hiding scrollbar
 
 ```html
 <div class="w-4 scrollbar-hide">...</div>
+```
+
+or restore default value use `scrollbar-default`
+
+```html
+<div class="w-4 scrollbar-hide md:scrollbar-default">...</div>
 ```
