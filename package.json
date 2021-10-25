@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite ./playground",
     "build": "vite build ./playground",
-    "prepublishOnly": "npm version patch && npm publish --access public"
+    "prepublishOnly": "npm version patch"
   },
   "repository": {
     "type": "git",
