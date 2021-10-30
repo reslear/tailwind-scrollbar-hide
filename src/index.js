@@ -3,6 +3,9 @@ const plugin = require('tailwindcss/plugin')
 const scrollbarHide = plugin(function ({ addUtilities }) {
   addUtilities({
     '.scrollbar-hide': {
+      /* IE and Edge */
+      '-ms-overflow-style': 'none',
+
       /* Firefox */
       'scrollbar-width': 'none',
 
@@ -12,6 +15,9 @@ const scrollbarHide = plugin(function ({ addUtilities }) {
       }
     },
     '.scrollbar-default': {
+      /* IE and Edge */
+      '-ms-overflow-style': 'auto',
+
       /* Firefox */
       'scrollbar-width': 'auto',
 
