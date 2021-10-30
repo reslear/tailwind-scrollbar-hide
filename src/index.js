@@ -11,7 +11,7 @@ const scrollbarHide = plugin(function ({ addUtilities }) {
         display: 'none'
       }
     },
-    'scrollbar-default': {
+    '.scrollbar-default': {
       /* Firefox */
       'scrollbar-width': 'auto',
 
