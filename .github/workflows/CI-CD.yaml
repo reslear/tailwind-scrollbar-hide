@@ -1,2 +1,0 @@
-- name: NPM Publish
-  uses: JS-DevTools/npm-publish@v1
