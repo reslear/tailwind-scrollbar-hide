@@ -5,8 +5,6 @@
   "main": "src/index.js",
   "scripts": {
     "dev": "vite ./playground",
-    "build": "vite build ./playground",
-    "prepublishOnly": "npm version patch"
   },
   "repository": {
     "type": "git",
