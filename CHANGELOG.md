@@ -1,3 +1,10 @@
+### [1.1.4](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.1.3...v1.1.4) (2021-10-31)
+
+
+### Bug Fixes
+
+* upd assets ([bf72c34](https://github.com/reslear/tailwind-scrollbar-hide/commit/bf72c34bf62d5fc1bc69891e66f948e98766a905))
+
 ### [1.1.3](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.1.2...v1.1.3) (2021-10-31)
 
 
