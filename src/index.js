@@ -14,6 +14,7 @@ const scrollbarHide = plugin(function ({ addUtilities }) {
         display: 'none'
       }
     },
+    
     '.scrollbar-default': {
       /* IE and Edge */
       '-ms-overflow-style': 'auto',
