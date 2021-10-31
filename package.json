@@ -4,7 +4,7 @@
   "description": "tailwindcss plugin for hide scrollbar",
   "main": "src/index.js",
   "scripts": {
-    "dev": "vite ./playground",
+    "dev": "vite ./playground"
   },
   "repository": {
     "type": "git",
