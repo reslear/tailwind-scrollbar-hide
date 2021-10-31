@@ -1,3 +1,10 @@
+### [1.1.3](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.1.2...v1.1.3) (2021-10-31)
+
+
+### Bug Fixes
+
+* semantic order ([9f75412](https://github.com/reslear/tailwind-scrollbar-hide/commit/9f754124a3ee085b123d3fd94aca8e4eb1dade39))
+
 ### [1.1.2](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.1.1...v1.1.2) (2021-10-31)
 
 
