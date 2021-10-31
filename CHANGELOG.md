@@ -1,3 +1,10 @@
+### [1.1.5](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.1.4...v1.1.5) (2021-10-31)
+
+
+### Bug Fixes
+
+* add enter to the function in index.js ([#17](https://github.com/reslear/tailwind-scrollbar-hide/issues/17)) ([511e8a4](https://github.com/reslear/tailwind-scrollbar-hide/commit/511e8a40cf7ab19c95a95a38a3c26ed602ec1498))
+
 ### [1.1.4](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.1.3...v1.1.4) (2021-10-31)
 
 
