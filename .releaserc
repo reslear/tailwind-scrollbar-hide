@@ -1,13 +1,9 @@
 {
   "branches": ["main", "next"],
-  "plugins" : {
+  "plugins" : [
     "@semantic-release/commit-analyzer",
     "@semantic-release/npm",
-    [
-      "@semantic-release/release-notes-generator", {
-        "preset": "conventional-changelog",
-      }
-    ],
+    "@semantic-release/release-notes-generator",
     [
       "@semantic-release/changelog",
       {
@@ -20,5 +16,6 @@
         "assets": ["CHANGELOG.md"]
       }
     ]
-  }
+  ],
+  "preset": "conventional-changelog"
 }
