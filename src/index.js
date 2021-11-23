@@ -27,7 +27,7 @@ const scrollbarHide = plugin(function ({ addUtilities }) {
         display: 'block'
       }
     }
-  })
+  }, ['responsive'])
 })
 
 module.exports = scrollbarHide
