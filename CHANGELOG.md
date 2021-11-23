@@ -1,3 +1,10 @@
+### [1.1.6](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.1.5...v1.1.6) (2021-11-23)
+
+
+### Bug Fixes
+
+* responsive ([c7840f2](https://github.com/reslear/tailwind-scrollbar-hide/commit/c7840f25484be289f346b6789caf897be57eb717)), closes [#13](https://github.com/reslear/tailwind-scrollbar-hide/issues/13)
+
 ### [1.1.5](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.1.4...v1.1.5) (2021-10-31)
 
 
