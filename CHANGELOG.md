@@ -1,3 +1,10 @@
+### [1.1.7](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.1.6...v1.1.7) (2021-12-20)
+
+
+### Bug Fixes
+
+* sync npm readme, clean file ([2b13483](https://github.com/reslear/tailwind-scrollbar-hide/commit/2b13483124af878452b20609a29db16475964765))
+
 ### [1.1.6](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.1.5...v1.1.6) (2021-11-23)
 
 

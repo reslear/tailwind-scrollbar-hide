@@ -1,6 +1,6 @@
 {
   "name": "tailwind-scrollbar-hide",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "tailwindcss plugin for hide scrollbar",
   "main": "src/index.js",
   "scripts": {
