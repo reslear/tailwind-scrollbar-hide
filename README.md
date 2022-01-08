@@ -4,9 +4,10 @@ Tailwind plugin for hide scrollbars, although the element can still be scrolled 
 
 [![npm](https://img.shields.io/npm/v/tailwind-scrollbar-hide)](https://www.npmjs.com/package/tailwind-scrollbar-hide)
 ![npm](https://img.shields.io/npm/dt/tailwind-scrollbar-hide)
+![npm](https://img.shields.io/npm/dw/tailwind-scrollbar-hide)
 ![Dependents (via libraries.io)](https://img.shields.io/librariesio/dependents/npm/tailwind-scrollbar-hide?0)
+[![install size](https://packagephobia.com/badge?p=tailwind-scrollbar-hide)](https://packagephobia.com/result?p=tailwind-scrollbar-hide)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
-[![install size](https://packagephobia.com/badge?p=tailwind-scrollbar-hide@1.1.6)](https://packagephobia.com/result?p=tailwind-scrollbar-hide@1.1.6)
 
 ![Firefox >=64 Chrome >= 2 Safari >= 4 Internet Explorer >= 10 ](https://badges.herokuapp.com/browsers?googlechrome=2&firefox=64&safari=4&iexplore=10)
 
