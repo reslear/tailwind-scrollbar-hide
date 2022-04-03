@@ -56,6 +56,7 @@ Use in you template `scrollbar-hide` for visual hiding scrollbar
 ```
 
 or restore default value use `scrollbar-default`
+> ⚠️ webkit overriding not working https://github.com/reslear/tailwind-scrollbar-hide/issues/19#issuecomment-1086949110 need switch breakpoint system
 
 ```html
 <div class="w-4 scrollbar-hide md:scrollbar-default">...</div>
