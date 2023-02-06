@@ -2,6 +2,8 @@
 
 Tailwind plugin for hide scrollbars, although the element can still be scrolled if the element's content overflows.
 
+* Also available [unocss-preset-scrollbar-hide](https://github.com/reslear/unocss-preset-scrollbar-hide)
+
 [![npm](https://img.shields.io/npm/v/tailwind-scrollbar-hide)](https://www.npmjs.com/package/tailwind-scrollbar-hide)
 ![npm](https://img.shields.io/npm/dt/tailwind-scrollbar-hide)
 ![npm](https://img.shields.io/npm/dw/tailwind-scrollbar-hide)
