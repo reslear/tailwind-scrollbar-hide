@@ -7,18 +7,18 @@
 
 Tailwind plugin for hide scrollbars, although the element can still be scrolled if the element's content overflows.
 
-![tailwind-scrollbar-hide animation demo](https://user-images.githubusercontent.com/12596485/142972957-272010d3-29f6-4be7-99e1-dd03e7a8b92b.gif)
+<img src="https://user-images.githubusercontent.com/12596485/142972957-272010d3-29f6-4be7-99e1-dd03e7a8b92b.gif" alt="tailwind-scrollbar-hide animation demo" height="500" />
 
-![Firefox >=64 Chrome >= 2 Safari >= 4 Internet Explorer >= 10 ](https://badges.herokuapp.com/browsers?googlechrome=2&firefox=64&safari=4&iexplore=10)
-
-[Live demo](https://reslear.github.io/packages/tailwind-scroll-hide/index.html)
+[🕹 Live Playground](https://reslear.github.io/packages/tailwind-scroll-hide/index.html)
 
 ## Features
 
-- [x] Supports Chrome 2, Firefox 64, Safari 4, and Internet Explorer 10.
-- [x] Tailwind v2.x, v3.x, v4.x
-- Port for [unocss-preset-scrollbar-hide](https://github.com/reslear/unocss-preset-scrollbar-hide)
+🎨 Tailwind v2.x, v3.x, v4.x
 
+🛠️ Port for [unocss-preset-scrollbar-hide](https://github.com/reslear/unocss-preset-scrollbar-hide)
+
+![Firefox >=64 Chrome >= 2 Safari >= 4 Internet Explorer >= 10 ](https://badges.herokuapp.com/browsers?googlechrome=2&firefox=64&safari=4&iexplore=10)
+ 
 ## Installation
 
 Install the plugin from npm:
