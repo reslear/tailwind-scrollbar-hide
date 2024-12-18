@@ -1,3 +1,15 @@
+## v1.3.0
+
+[compare changes](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.1.7...v1.3.0)
+
+### 🚀 Enhancements
+
+- Tailwind v3 ([#26](https://github.com/reslear/tailwind-scrollbar-hide/pull/26))
+
+### ❤️ Contributors
+
+- Reslear <reslear@gmail.com>
+
 ### [1.1.7](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.1.6...v1.1.7) (2021-12-20)
 
 
