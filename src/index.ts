@@ -6,6 +6,7 @@ import type { PluginCreator } from 'tailwindcss/types/config'
 const scrollbarHide: PluginCreator = ({ addUtilities }) =>
   addUtilities({
     '.scrollbar-hide': {
+      // TODO: remove IE and Edge support
       /* IE and Edge */
       '-ms-overflow-style': 'none',
 
@@ -19,6 +20,7 @@ const scrollbarHide: PluginCreator = ({ addUtilities }) =>
     },
 
     '.scrollbar-default': {
+      // TODO: remove IE and Edge support
       /* IE and Edge */
       '-ms-overflow-style': 'auto',
 
