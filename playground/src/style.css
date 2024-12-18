@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+@config '../tailwind.config.ts';
+
+/* TODO: https://github.com/tailwindlabs/tailwindcss/discussions/13292
+@import '../node_modules/tailwind-scrollbar-hide/src/index.js'; */
+
+body {
+  @apply bg-gray-100;
+}
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 2rem;
+}
