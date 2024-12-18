@@ -1,8 +1,11 @@
 @import 'tailwindcss';
 @config '../tailwind.config.ts';
 
-/* TODO: https://github.com/tailwindlabs/tailwindcss/discussions/13292
-@import '../node_modules/tailwind-scrollbar-hide/src/index.js'; */
+/* TODO: Temporary not working
+https://github.com/tailwindlabs/tailwindcss/discussions/13292
+@import '../node_modules/tailwind-scrollbar-hide/src/index.js'; 
+@import 'tailwind-scrollbar-hide'; 
+*/
 
 body {
   @apply bg-gray-100;

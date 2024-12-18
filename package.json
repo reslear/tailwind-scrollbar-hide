@@ -17,13 +17,22 @@
   },
   "license": "MIT",
   "author": "reslear",
-  "main": "src/index.js",
-  "types": "src/index.d.ts",
+  "sideEffects": false,
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
-    "src"
+    "dist"
   ],
   "scripts": {
-    "dev": "vite ./playground"
+    "build": "tsc",
+    "prepublishOnly": "pnpm build"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
@@ -31,7 +40,7 @@
     "typescript": "5.7.2"
   },
   "peerDependencies": {
-    "tailwindcss": ">=3.0.0 || >= 3.0.0-alpha.1 || >= 4.0.0-alpha.20"
+    "tailwindcss": ">=3.0.0 || >= 4.0.0 || >= 4.0.0-beta.8 || >= 4.0.0-alpha.20"
   },
   "publishConfig": {
     "access": "public"
