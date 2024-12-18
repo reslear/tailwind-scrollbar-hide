@@ -1,13 +1,87 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" href="/src/favicon.png" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
-  </head>
-  <body>
-    <div id="app"></div>
-    <script type="module" src="/src/main.ts"></script>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tailwind Scrollbar Hide - Demo</title>
+</head>
+
+<body>
+  <div id="app"></div>
+
+  <div class="container max-w-4xl my-10">
+    <header>
+      <h1 class="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500">
+        tailwind-scrollbar-hide
+      </h1>
+      <p class="text-black text-opacity-80">
+        tailwindcss plugin for hide scrollbar
+      </p>
+    </header>
+
+    <main class="flex flex-col gap-10 mt-10">
+      <div class="p-5 bg-white shadow-2xl rounded-xl">
+        <h3 class="font-bold">Default</h3>
+
+        <div class="p-4 mt-5 rounded-lg bg-gray-50">
+          <div class="w-full overflow-auto max-h-48">
+
+            <div class="space-y-10">
+              <p>
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                Lorem Ipsum has been the industry's standard dummy text ever since the
+                1500s, when an unknown printer took a galley of type and scrambled it to
+                make a type specimen book. It has survived not only five centuries, but
+                also the leap into electronic typesetting, remaining essentially
+                unchanged.
+              </p>
+
+              <p class="inline-block w-screen h-screen">
+                It was popularised in the 1960s with the release of Letraset sheets
+                containing Lorem Ipsum passages, and more recently with desktop publishing
+                software like Aldus PageMaker including versions of Lorem Ipsum.
+              </p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="p-5 bg-white shadow-2xl rounded-xl">
+        <h3 class="font-bold">scrollbar-hide</h3>
+
+        <div class="p-4 mt-5 rounded-lg bg-gray-50">
+          <div class="w-full overflow-auto max-h-48 scrollbar-hide">
+
+            <div class="space-y-10">
+              <p>
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                Lorem Ipsum has been the industry's standard dummy text ever since the
+                1500s, when an unknown printer took a galley of type and scrambled it to
+                make a type specimen book. It has survived not only five centuries, but
+                also the leap into electronic typesetting, remaining essentially
+                unchanged.
+              </p>
+
+              <p class="inline-block w-screen h-screen">
+                It was popularised in the 1960s with the release of Letraset sheets
+                containing Lorem Ipsum passages, and more recently with desktop publishing
+                software like Aldus PageMaker including versions of Lorem Ipsum.
+              </p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+    </main>
+
+
+  </div>
+
+  <script type="module" src="/src/main.ts"></script>
+</body>
+
 </html>
