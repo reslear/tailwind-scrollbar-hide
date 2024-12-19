@@ -1,3 +1,19 @@
+## v2.0.0
+
+[compare changes](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.3.1...v2.0.0)
+
+### 🩹 Fixes
+
+- ⚠️  Export as ESM ([2dd3db3](https://github.com/reslear/tailwind-scrollbar-hide/commit/2dd3db3))
+
+#### ⚠️ Breaking Changes
+
+- ⚠️  Export as ESM ([2dd3db3](https://github.com/reslear/tailwind-scrollbar-hide/commit/2dd3db3))
+
+### ❤️ Contributors
+
+- Reslear <reslear@gmail.com>
+
 ## v1.3.1
 
 [compare changes](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.3.0...v1.3.1)
