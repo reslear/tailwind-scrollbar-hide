@@ -1,4 +1,4 @@
-import type { PluginCreator } from 'tailwindcss/types/config'
+import type { PluginCreator } from 'tailwindcss/types/config.js'
 
 /**
  * Tailwind plugin for hide scrollbars, although the element can still be scrolled if the element's content overflows.
@@ -35,4 +35,4 @@ const scrollbarHide: PluginCreator = ({ addUtilities }) =>
   })
 
 // override type for v3/4 compatibility
-export = scrollbarHide as () => void
+export default scrollbarHide as () => void
