@@ -70,8 +70,8 @@ export default {
 
 ```css
 /* index.css */
-@import 'tailwindcss';
-@config "../../tailwind.config.js";
+@import "tailwindcss";
+@plugin "tailwind-scrollbar-hide";
 ```
 
 ## Usage
