@@ -11,6 +11,8 @@ Tailwind plugin for hide scrollbars, although the element can still be scrolled 
 
 [🕹 Live Playground](https://reslear.github.io/tailwind-scrollbar-hide/)
 
+> 💡 **Note**: You might not need this plugin, just add these utilities to your Tailwind config using [complex utilities](https://tailwindcss.com/docs/adding-custom-styles#complex-utilities) (see [example](https://github.com/reslear/tailwind-scrollbar-hide/issues/31#issuecomment-2922855576)), or continue using this plugin for a ready-to-use solution.
+
 ## Features
 
 🎨 Tailwind v4.x, v3.x, v2.x.
