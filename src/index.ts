@@ -1,9 +1,7 @@
-import type { PluginCreator } from 'tailwindcss/types/config.js'
-
 /**
  * Tailwind plugin for hide scrollbars, although the element can still be scrolled if the element's content overflows.
  */
-const scrollbarHide: PluginCreator = ({ addUtilities }) =>
+const scrollbarHide: any = ({ addUtilities }) =>
   addUtilities({
     '.scrollbar-hide': {
       // TODO: remove IE and Edge support

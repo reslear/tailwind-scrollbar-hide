@@ -11,9 +11,8 @@ class LoremBlock extends HTMLElement {
         <h3 class="font-bold">${this.title}</h3>
         
         <div class="p-4 mt-5 rounded-lg bg-gray-50">
-          <div class="w-full overflow-auto max-h-48 ${
-            this.hasAttribute('scroll-hide') ? 'scrollbar-hide' : ''
-          }">
+          <div class="w-full overflow-auto max-h-48 ${this.hasAttribute('scroll-hide') ? 'scrollbar-hide' : ''
+      }">
 
             <div class="space-y-10">
               <p>
