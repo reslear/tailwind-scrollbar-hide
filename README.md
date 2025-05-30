@@ -13,11 +13,13 @@ Tailwind plugin for hide scrollbars, although the element can still be scrolled 
 
 ## Features
 
-🎨 Tailwind v4.x, v3.x, v2.x. 
+🎨 Tailwind v4.x, v3.x, v2.x.
 
 📦 Zero dependencies
 
 🛠️ Port for [unocss-preset-scrollbar-hide](https://github.com/reslear/unocss-preset-scrollbar-hide)
+
+🎯 Pure CSS implementation for v4.x
 
 ## Installation
 
