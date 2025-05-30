@@ -17,9 +17,9 @@ Tailwind plugin for hide scrollbars, although the element can still be scrolled 
 
 📦 Zero dependencies
 
-🛠️ Port for [unocss-preset-scrollbar-hide](https://github.com/reslear/unocss-preset-scrollbar-hide)
-
 🎯 Pure CSS implementation for v4.x
+
+🛠️ Port for [unocss-preset-scrollbar-hide](https://github.com/reslear/unocss-preset-scrollbar-hide)
 
 ## Installation
 
@@ -39,7 +39,7 @@ yarn add tailwind-scrollbar-hide
 ### Tailwind v4 support
 
 ![Firefox >=64 Chrome >= 2 Safari >= 4](https://badges.herokuapp.com/browsers?googlechrome=2&firefox=64&safari=4)
-
+> Note: Internet Explorer functionality has been dropped in Tailwind v4
 
 For Tailwind v4, you can use the following approach in your CSS configuration file:
 
@@ -50,8 +50,6 @@ For Tailwind v4, you can use the following approach in your CSS configuration fi
 ```
 
 This will automatically import and configure the plugin for Tailwind v4. 
-
-> Note: Internet Explorer functionality has been dropped in Tailwind v4
 
 ### Tailwind v2.x, v3.x support
 
