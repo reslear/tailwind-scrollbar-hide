@@ -1,3 +1,24 @@
+## v4.0.0
+
+[compare changes](https://github.com/reslear/tailwind-scrollbar-hide/compare/v2.0.0...v4.0.0)
+
+### 🚀 Enhancements
+
+- ⚠️  V4 support ([#32](https://github.com/reslear/tailwind-scrollbar-hide/pull/32))
+
+### 💅 Refactors
+
+- **playground:** Use native custom component ([cc2f089](https://github.com/reslear/tailwind-scrollbar-hide/commit/cc2f089))
+- **playground:** Format html ([391b317](https://github.com/reslear/tailwind-scrollbar-hide/commit/391b317))
+
+#### ⚠️ Breaking Changes
+
+- ⚠️  V4 support ([#32](https://github.com/reslear/tailwind-scrollbar-hide/pull/32))
+
+### ❤️ Contributors
+
+- Reslear ([@reslear](https://github.com/reslear))
+
 ## v2.0.0
 
 [compare changes](https://github.com/reslear/tailwind-scrollbar-hide/compare/v1.3.1...v2.0.0)
